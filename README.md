@@ -5,6 +5,8 @@ About Me
 Hello ! I’m Avika Panday
  Branch: CSE(Core)
  Year: First Year(2025 Batch)
+ Registration Number : 25BCE10928
+ Project Title : Digital Literacy Portfolio: A Student Digital Ambassador Initiative
  I’m a tech enthusiast and take a keen interest in learning C++ and build solutions for different problems with the help of DSA .
  Project Overview
 This project is a Digital Literacy Portfolio built on the role of  a Student Digital Ambassador. It emphasises on cultivating essential digital competencies such as curating a professional online presence,hands - on practice on coding, leveraging collaboration tools,ensuring proper  email etiquette, and championing cybercrime and online safety.
