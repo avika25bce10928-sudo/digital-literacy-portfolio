@@ -2,39 +2,42 @@
 ## Project Overview
 ## Tasks
 About Me : 
- Hello ! I’m Avika Panday
- Branch: CSE(Core)
- Year: First Year(2025 Batch)
- Registration Number : 25BCE10928
- Project Title : Digital Literacy Portfolio: A Student Digital Ambassador Initiative
- I’m a tech enthusiast and take a keen interest in learning C++ and build solutions for different problems with the help of DSA .
- Project Overview
+  Hello ! I’m Avika Panday
+  Branch: CSE(Core)
+  Year: First Year(2025 Batch)
+  Registration Number : 25BCE10928
+  I’m a tech enthusiast and take a keen interest in learning C++ and build solutions for different problems with the help of DSA .
+ 
+  
+  Project Title : Digital Literacy Portfolio: A Student Digital Ambassador Initiative
+ 
+ Project Overview : 
 This project is a Digital Literacy Portfolio built on the role of  a Student Digital Ambassador. It emphasises on cultivating essential digital competencies such as curating a professional online presence,hands - on practice on coding, leveraging collaboration tools,ensuring proper  email etiquette, and championing cybercrime and online safety.
 
- Project Structure
+Project Structure :
 task-1-presentation
 task-2-portfolio
 task-3-platforms
 task-4-email-etiquette
 task-5-cybercrime
 
- Tasks Included
+ Tasks Included : 
 🔹 Task 1: Digital Literacy Infographic
      Designed an infographic explaining digital literacy,safe internet practices,and useful tools    
 🔹 Task 2: Student Digital Portfolio
        Create professional accounts  on GitHub, LinkedIn,Kaggle and other platforms.
 🔹 Task 3: Coding & Collaboration Platforms
-        Build a logical approach on a problem on HackerRank and built a Digital Literacy            Awareness  quiz using Google Form
-.
+        Build a logical approach on a problem on HackerRank and built a Digital Literacy . Awareness quiz using Google Form .
 🔹 Task 4: Email Etiquette
      Authored professional emails and generated a social media checklist.
 🔹 Task 5: Cybercrime Awareness
        Produced a case study and corresponding social media checklist
 
- Digital Literacy Quiz
-  I developed the quiz to promote the awareness of Digital Literacy among students
+ Digital Literacy Quiz:
+ I developed the quiz to promote the awareness of Digital Literacy among students
 https://docs.google.com/forms/d/e/1FAIpQLSdC0eeNBGNRbzX1lIj5MNgyucXgA0bCSe3gXW25h0zzkw46-A/viewform
- Tools & Platforms Used
+
+ Tools & Platforms Used :
 Canva
 GitHub
 LinkedIn
@@ -42,16 +45,16 @@ HackerRank
 Google Forms
 Kaggle
 
- Learning Outcomes
+ Learning Outcomes :
 Develop good communication skills
 Build  a good digital footprint
 Learn better internet usage 
 Gain more knowledge about cyber attacks and their prevention
 
- Future Goals
+ Future Goals : 
 I aim to build up more on my coding skills to develop more projects on Digital Literacy which will help my peers to beware of cyber hacks and build confidence on using more such digital applications
 
- References
+ References :
 Canva: https://www.canva.com
 GitHub Docs: https://docs.github.com
 LinkedIn Help: https://www.linkedin.com/help
