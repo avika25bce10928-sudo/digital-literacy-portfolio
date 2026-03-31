@@ -1,8 +1,8 @@
 # Digital-Literacy-Portfolio
 ## Project Overview
 ## Tasks
-About Me
-Hello ! I’m Avika Panday
+About Me : 
+ Hello ! I’m Avika Panday
  Branch: CSE(Core)
  Year: First Year(2025 Batch)
  Registration Number : 25BCE10928
